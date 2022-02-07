@@ -1,0 +1,15 @@
+"labels":[
+{"timestamp":1641576623340,"stopType":"Restaurant"},
+{"timestamp":1641576978235,"stopType":"Customer"},
+{"timestamp":1641577304540,"stopType":"Customer"},
+{"timestamp":1641577941235,"stopType":"Restaurant"},
+{"timestamp":1641578316015,"stopType":"Customer"},
+{"timestamp":1641579308670,"stopType":"Restaurant"},
+{"timestamp":1641579752426,"stopType":"Customer"},
+{"timestamp":1641580413647,"stopType":"Customer"},
+{"timestamp":1641582038994,"stopType":"Restaurant"},
+{"timestamp":1641582490647,"stopType":"Customer"},
+{"timestamp":1641582820100,"stopType":"Restaurant"},
+{"timestamp":1641583548397,"stopType":"Customer"},
+{"timestamp":1641583552429,"stopType":"Restaurant"},
+{"timestamp":1641584013751,"stopType":"Customer"}]
